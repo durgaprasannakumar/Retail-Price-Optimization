@@ -13,16 +13,16 @@ Jupyter notebook in HTML format,
 Datasets required in .csv format.
 
 # Steps Involved:
-Understanding the retail price optimization problem
-In depth understanding of price elasticity
-Initial understanding with the help of visualizations
-Understanding business context with the help of data
-Combining data
-Making inferences from plots
-Segregating data based on analysis
-Implementing model to identify price elasticity of items
-Creating generic code to identify price elasticity of all items
-Walkthrough of price optimization for one product and visualizing the outputs
-Generic code for price optimization for all products
+Understanding the retail price optimization problem,
+In depth understanding of price elasticity,
+Initial understanding with the help of visualizations,
+Understanding business context with the help of data,
+Combining data,
+Making inferences from plots,
+Segregating data based on analysis,
+Implementing model to identify price elasticity of items,
+Creating generic code to identify price elasticity of all items,
+Walkthrough of price optimization for one product and visualizing the outputs,
+Generic code for price optimization for all products.
 
 
